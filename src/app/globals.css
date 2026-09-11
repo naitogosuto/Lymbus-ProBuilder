@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap');
+
+:root {
+  --bg-primary: #0a0a0f;
+  --bg-secondary: #13131a;
+  --bg-tertiary: #1a1a26;
+  --bg-card: #161622;
+  --bg-card-hover: #1e1e2d;
+  --border-color: #2a2a3a;
+  --border-highlight: #3f3f56;
+
+  --text-primary: #f0f0f5;
+  --text-secondary: #9090a6;
+  --text-muted: #62627a;
+
+  --accent-gold: #c4a35a;
+  --accent-gold-glow: rgba(196, 163, 90, 0.25);
+  --accent-red: #e84057;
+
+  /* Sin Colors */
+  --sin-wrath: #ef4444;
+  --sin-lust: #f97316;
+  --sin-sloth: #fbbf24;
+  --sin-gluttony: #84cc16;
+  --sin-gloom: #06b6d4;
+  --sin-pride: #3b82f6;
+  --sin-envy: #a855f7;
+
+  /* Keyword Colors */
+  --kw-burn: #f5a623;
+  --kw-bleed: #e84057;
+  --kw-tremor: #5bc0de;
+  --kw-rupture: #9b59b6;
+  --kw-sinking: #3498db;
+  --kw-poise: #2ecc71;
+  --kw-charge: #4a9eff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--border-highlight);
+}
+
+/* Glassmorphism utility */
+.glass-panel {
+  background: rgba(22, 22, 34, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+}
+
+/* Layout container */
+.app-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.page-wrapper {
+  padding: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* Badge styles */
+.badge-keyword {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out forwards;
+}
+
+.gold-glow {
+  box-shadow: 0 0 15px var(--accent-gold-glow);
+}

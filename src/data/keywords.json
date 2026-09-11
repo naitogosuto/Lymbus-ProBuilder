@@ -1,0 +1,58 @@
+[
+  {
+    "id": "Burn",
+    "name": "Burn",
+    "nameKr": "화상",
+    "color": "#f5a623",
+    "icon": "🔥",
+    "description": "At turn end, target takes fixed damage equal to Burn Potency. Count decreases by 1."
+  },
+  {
+    "id": "Bleed",
+    "name": "Bleed",
+    "nameKr": "출혈",
+    "color": "#e84057",
+    "icon": "🩸",
+    "description": "When target rolls coins during attack/clash, takes fixed damage equal to Bleed Potency. Count decreases per coin."
+  },
+  {
+    "id": "Tremor",
+    "name": "Tremor",
+    "nameKr": "진동",
+    "color": "#5bc0de",
+    "icon": "🔔",
+    "description": "Upon Tremor Burst, pushes target's Stagger threshold forward by Tremor Potency."
+  },
+  {
+    "id": "Rupture",
+    "name": "Rupture",
+    "nameKr": "파열",
+    "color": "#9b59b6",
+    "icon": "⚡",
+    "description": "Whenever target is hit, deals true damage equal to Rupture Potency. Count decreases by 1 per hit."
+  },
+  {
+    "id": "Sinking",
+    "name": "Sinking",
+    "nameKr": "침잠",
+    "color": "#3498db",
+    "icon": "🌊",
+    "description": "On hit, deals SP damage equal to Potency. Deals Gloom HP damage to enemies without SP."
+  },
+  {
+    "id": "Poise",
+    "name": "Poise",
+    "nameKr": "호흡",
+    "color": "#2ecc71",
+    "icon": "🗡️",
+    "description": "Increases Critical Chance by Potency × 5%. Critical hits deal +20% damage."
+  },
+  {
+    "id": "Charge",
+    "name": "Charge",
+    "nameKr": "충전",
+    "color": "#4a9eff",
+    "icon": "⚡",
+    "description": "Self-resource count consumed by powerful finisher skills and mechanics."
+  }
+]

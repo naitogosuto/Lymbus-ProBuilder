@@ -1,0 +1,2390 @@
+[
+  {
+    "id": "ego_1",
+    "slug": "move-in-reg-gregor",
+    "name": "Move-in Reg.",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 1
+      },
+      {
+        "sin": "Envy",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "ego_2",
+    "slug": "ill-go-fer-scissors-how-bout-you-don-quixote",
+    "name": "I'll Go fer Scissors. How 'Bout You?",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Envy",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "ego_3",
+    "slug": "solemn-lament-yi-sang",
+    "name": "Solemn Lament",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 1
+      },
+      {
+        "sin": "Gloom",
+        "count": 4
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_4",
+    "slug": "shadow-vested-bladesinger-%5B%E7%9D%80%E5%BD%B1%E6%8F%AE%E5%88%80%5D-meursault",
+    "name": "Shadow-vested Bladesinger [着影揮刀]",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 1
+      },
+      {
+        "sin": "Pride",
+        "count": 4
+      },
+      {
+        "sin": "Envy",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_5",
+    "slug": "into-the-sunset-rodion",
+    "name": "Into the Sunset",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Lust",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_6",
+    "slug": "ardor-blossom-star-faust",
+    "name": "Ardor Blossom Star",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 3
+      },
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_7",
+    "slug": "harmony-sinclair",
+    "name": "Harmony",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 3
+      },
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Sloth",
+        "count": 1
+      },
+      {
+        "sin": "Pride",
+        "count": 1
+      },
+      {
+        "sin": "Envy",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_8",
+    "slug": "great-trichiliocosm-%5B%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C%5D-yi-sang",
+    "name": "Great Trichiliocosm [三千大世界]",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 4
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_9",
+    "slug": "great-trichiliocosm-%5B%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C%5D-ryoshu",
+    "name": "Great Trichiliocosm [三千大世界]",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 4
+      },
+      {
+        "sin": "Lust",
+        "count": 4
+      },
+      {
+        "sin": "Pride",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_10",
+    "slug": "move-in-reg-heathcliff",
+    "name": "Move-in Reg.",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Gluttony",
+        "count": 1
+      },
+      {
+        "sin": "Envy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_11",
+    "slug": "ill-go-fer-scissors-how-bout-you-outis",
+    "name": "I'll Go fer Scissors. How 'Bout You?",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Envy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_12",
+    "slug": "command-meltdown-faust",
+    "name": "Command : Meltdown",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 1
+      },
+      {
+        "sin": "Gluttony",
+        "count": 5
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_13",
+    "slug": "to-remain-oneself-%5B%E5%AE%81%E4%BD%9C%E5%90%BE%5D-hong-lu",
+    "name": "To Remain Oneself [宁作吾]",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 1
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_14",
+    "slug": "tidal-elegy-ishmael",
+    "name": "Tidal Elegy",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Gloom",
+        "count": 4
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_15",
+    "slug": "unbrilliant-glory-gregor",
+    "name": "Unbrilliant Glory",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Sloth",
+        "count": 3
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_16",
+    "slug": "crushbound-past-meursault",
+    "name": "Crushbound Past",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Sloth",
+        "count": 6
+      },
+      {
+        "sin": "Envy",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_17",
+    "slug": "in-the-name-of-love-and-hate-don-quixote",
+    "name": "In the Name of Love and Hate",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "ego_18",
+    "slug": "tears-of-the-tarnished-blood-%5B%E6%B1%9A%E8%A1%80%E6%B3%A3%E6%B7%9A%5D-hong-lu",
+    "name": "Tears of the Tarnished Blood [汚血泣淚]",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Gluttony",
+        "count": 5
+      },
+      {
+        "sin": "Gloom",
+        "count": 1
+      },
+      {
+        "sin": "Envy",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_19",
+    "slug": "tears-of-the-tarnished-blood-%5B%E6%B1%9A%E8%A1%80%E6%B3%A3%E6%B7%9A%5D-sinclair",
+    "name": "Tears of the Tarnished Blood [汚血泣淚]",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Gluttony",
+        "count": 6
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_20",
+    "slug": "red-sheet-don-quixote",
+    "name": "Red Sheet",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Gluttony",
+        "count": 5
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_21",
+    "slug": "hundred-footed-death-maggot-%5B%E8%9D%8D%E8%9B%86%E6%AE%BA%5D-ishmael",
+    "name": "Hundred-Footed Death Maggot [蝍蛆殺]",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_22",
+    "slug": "indicants-trial-rodion",
+    "name": "Indicant's Trial",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 7
+      },
+      {
+        "sin": "Pride",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_23",
+    "slug": "thoracalgia-faust",
+    "name": "Thoracalgia",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 1
+      },
+      {
+        "sin": "Gloom",
+        "count": 1
+      },
+      {
+        "sin": "Pride",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "ego_24",
+    "slug": "thoracalgia-ryoshu",
+    "name": "Thoracalgia",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 1
+      },
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Pride",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "ego_25",
+    "slug": "magic-bullet-outis",
+    "name": "Magic Bullet",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_26",
+    "slug": "christmas-nightmare-ishmael",
+    "name": "Christmas Nightmare",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 4
+      },
+      {
+        "sin": "Gluttony",
+        "count": 1
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_27",
+    "slug": "christmas-nightmare-gregor",
+    "name": "Christmas Nightmare",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Gluttony",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_28",
+    "slug": "asymmetrical-inertia-heathcliff",
+    "name": "Asymmetrical Inertia",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 1
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_29",
+    "slug": "fell-bullet-yi-sang",
+    "name": "Fell Bullet",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "ego_30",
+    "slug": "yearning-mircalla-don-quixote",
+    "name": "Yearning-Mircalla",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 5
+      },
+      {
+        "sin": "Gluttony",
+        "count": 3
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_31",
+    "slug": "yearning-mircalla-meursault",
+    "name": "Yearning-Mircalla",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 4
+      },
+      {
+        "sin": "Pride",
+        "count": 3
+      },
+      {
+        "sin": "Envy",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_32",
+    "slug": "hex-nail-rodion",
+    "name": "Hex Nail",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 1
+      },
+      {
+        "sin": "Envy",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_33",
+    "slug": "hex-nail-sinclair",
+    "name": "Hex Nail",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_34",
+    "slug": "lasso-faust",
+    "name": "Lasso",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Gluttony",
+        "count": 3
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_35",
+    "slug": "lasso-hong-lu",
+    "name": "Lasso",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Gluttony",
+        "count": 4
+      },
+      {
+        "sin": "Pride",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_36",
+    "slug": "bygone-days-ishmael",
+    "name": "Bygone Days",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Sloth",
+        "count": 1
+      },
+      {
+        "sin": "Gloom",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_37",
+    "slug": "solemn-lament-gregor",
+    "name": "Solemn Lament",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_38",
+    "slug": "dimension-shredder-outis",
+    "name": "Dimension Shredder",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 1
+      },
+      {
+        "sin": "Gloom",
+        "count": 3
+      },
+      {
+        "sin": "Pride",
+        "count": 1
+      },
+      {
+        "sin": "Envy",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_39",
+    "slug": "fell-bullet-heathcliff",
+    "name": "Fell Bullet",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 1
+      },
+      {
+        "sin": "Pride",
+        "count": 3
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_40",
+    "slug": "contempt-awe-ryoshu",
+    "name": "Contempt, Awe",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 3
+      },
+      {
+        "sin": "Lust",
+        "count": 4
+      },
+      {
+        "sin": "Pride",
+        "count": 4
+      },
+      {
+        "sin": "Envy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_41",
+    "slug": "everlasting-faust",
+    "name": "Everlasting",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Sloth",
+        "count": 4
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_42",
+    "slug": "cavernous-wailing-hong-lu",
+    "name": "Cavernous Wailing",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 3
+      },
+      {
+        "sin": "Gloom",
+        "count": 3
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_43",
+    "slug": "cavernous-wailing-sinclair",
+    "name": "Cavernous Wailing",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_44",
+    "slug": "wingbeat-ishmael",
+    "name": "Wingbeat",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Gluttony",
+        "count": 3
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_45",
+    "slug": "sanguine-desire-rodion",
+    "name": "Sanguine Desire",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 1
+      },
+      {
+        "sin": "Lust",
+        "count": 3
+      },
+      {
+        "sin": "Pride",
+        "count": 3
+      },
+      {
+        "sin": "Envy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_46",
+    "slug": "electric-screaming-don-quixote",
+    "name": "Electric Screaming",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Pride",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_47",
+    "slug": "electric-screaming-meursault",
+    "name": "Electric Screaming",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 1
+      },
+      {
+        "sin": "Envy",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_48",
+    "slug": "binds-heathcliff",
+    "name": "Binds",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 4
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_49",
+    "slug": "binds-outis",
+    "name": "Binds",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 1
+      },
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Sloth",
+        "count": 4
+      },
+      {
+        "sin": "Pride",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_50",
+    "slug": "bygone-days-yi-sang",
+    "name": "Bygone Days",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 3
+      },
+      {
+        "sin": "Gloom",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_51",
+    "slug": "bygone-days-gregor",
+    "name": "Bygone Days",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_52",
+    "slug": "garden-of-thorns-gregor",
+    "name": "Garden of Thorns",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Gluttony",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_53",
+    "slug": "wishing-cairn-don-quixote",
+    "name": "Wishing Cairn",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_54",
+    "slug": "holiday-heathcliff",
+    "name": "Holiday",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Gluttony",
+        "count": 3
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_55",
+    "slug": "holiday-outis",
+    "name": "Holiday",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Sloth",
+        "count": 1
+      },
+      {
+        "sin": "Pride",
+        "count": 3
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_56",
+    "slug": "pursuance-rodion",
+    "name": "Pursuance",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 4
+      },
+      {
+        "sin": "Pride",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_57",
+    "slug": "blind-obsession-ryoshu",
+    "name": "Blind Obsession",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Gloom",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_58",
+    "slug": "blind-obsession-ishmael",
+    "name": "Blind Obsession",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 3
+      },
+      {
+        "sin": "Pride",
+        "count": 3
+      },
+      {
+        "sin": "Envy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_59",
+    "slug": "effervescent-corrosion-rodion",
+    "name": "Effervescent Corrosion",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_60",
+    "slug": "92-sinclair",
+    "name": "9:2",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Lust",
+        "count": 5
+      },
+      {
+        "sin": "Envy",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_61",
+    "slug": "92-faust",
+    "name": "9:2",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Gluttony",
+        "count": 3
+      },
+      {
+        "sin": "Pride",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_62",
+    "slug": "effervescent-corrosion-hong-lu",
+    "name": "Effervescent Corrosion",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Gluttony",
+        "count": 6
+      },
+      {
+        "sin": "Gloom",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_63",
+    "slug": "regret-meursault",
+    "name": "Regret",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 3
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_64",
+    "slug": "ya-%C5%9Bunyat%C4%81-tad-rupam-heathcliff",
+    "name": "Ya Śūnyatā Tad Rūpam",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_65",
+    "slug": "lantern-sinclair",
+    "name": "Lantern",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Gluttony",
+        "count": 4
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_66",
+    "slug": "soda-ryoshu",
+    "name": "Soda",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Gluttony",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_67",
+    "slug": "soda-hong-lu",
+    "name": "Soda",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Gluttony",
+        "count": 3
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_68",
+    "slug": "red-eyes-ryoshu",
+    "name": "Red Eyes",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Gluttony",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_69",
+    "slug": "red-eyes-(open",
+    "name": "Red Eyes (Open)",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_70",
+    "slug": "sunshower-yi-sang",
+    "name": "Sunshower",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "riskTier": "WAW",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 4
+      },
+      {
+        "sin": "Gluttony",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_71",
+    "slug": "aedd-gregor",
+    "name": "AEDD",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Gloom",
+        "count": 3
+      },
+      {
+        "sin": "Envy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_72",
+    "slug": "aedd-heathcliff",
+    "name": "AEDD",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Gloom",
+        "count": 3
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_73",
+    "slug": "sunshower-outis",
+    "name": "Sunshower",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Gluttony",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_74",
+    "slug": "capote-meursault",
+    "name": "Capote",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Sloth",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_75",
+    "slug": "capote-ishmael",
+    "name": "Capote",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Sloth",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_76",
+    "slug": "dimension-shredder-yi-sang",
+    "name": "Dimension Shredder",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 3
+      },
+      {
+        "sin": "Gluttony",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_77",
+    "slug": "dimension-shredder-hong-lu",
+    "name": "Dimension Shredder",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Gluttony",
+        "count": 3
+      },
+      {
+        "sin": "Pride",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_78",
+    "slug": "lifetime-stew-don-quixote",
+    "name": "Lifetime Stew",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "ego_79",
+    "slug": "lifetime-stew-sinclair",
+    "name": "Lifetime Stew",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 3
+      },
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Gluttony",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_80",
+    "slug": "telepole-faust",
+    "name": "Telepole",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 1
+      },
+      {
+        "sin": "Lust",
+        "count": 3
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_81",
+    "slug": "telepole-don-quixote",
+    "name": "Telepole",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 1
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_82",
+    "slug": "4th-match-flame-yi-sang",
+    "name": "4th Match Flame",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 5
+      },
+      {
+        "sin": "Sloth",
+        "count": 1
+      },
+      {
+        "sin": "Gluttony",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_83",
+    "slug": "wishing-cairn-yi-sang",
+    "name": "Wishing Cairn",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 4
+      },
+      {
+        "sin": "Gloom",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_84",
+    "slug": "hex-nail-faust",
+    "name": "Hex Nail",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Envy",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "ego_85",
+    "slug": "fluid-sac-faust",
+    "name": "Fluid Sac",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 4
+      },
+      {
+        "sin": "Envy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_86",
+    "slug": "fluid-sac-don-quixote",
+    "name": "Fluid Sac",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Gloom",
+        "count": 4
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_87",
+    "slug": "4th-match-flame-ryoshu",
+    "name": "4th Match Flame",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 4
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_88",
+    "slug": "screwloose-wallop-meursault",
+    "name": "Screwloose Wallop",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 1
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_89",
+    "slug": "pursuance-meursault",
+    "name": "Pursuance",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 4
+      },
+      {
+        "sin": "Gloom",
+        "count": 1
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_90",
+    "slug": "roseate-desire-hong-lu",
+    "name": "Roseate Desire",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 4
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_91",
+    "slug": "telepole-heathcliff",
+    "name": "Telepole",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 3
+      },
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_92",
+    "slug": "roseate-desire-ishmael",
+    "name": "Roseate Desire",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 1
+      },
+      {
+        "sin": "Lust",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_93",
+    "slug": "ardor-blossom-star-ishmael",
+    "name": "Ardor Blossom Star",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 4
+      },
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_94",
+    "slug": "rime-shank-rodion",
+    "name": "Rime Shank",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Gloom",
+        "count": 5
+      },
+      {
+        "sin": "Envy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_95",
+    "slug": "4th-match-flame-rodion",
+    "name": "4th Match Flame",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 3
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "ego_96",
+    "slug": "impending-day-sinclair",
+    "name": "Impending Day",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 3
+      },
+      {
+        "sin": "Lust",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_97",
+    "slug": "ya-%C5%9Bunyat%C4%81-tad-rupam-outis",
+    "name": "Ya Śūnyatā Tad Rūpam",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_98",
+    "slug": "ebony-stem-outis",
+    "name": "Ebony Stem",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "riskTier": "HE",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Gluttony",
+        "count": 3
+      },
+      {
+        "sin": "Gloom",
+        "count": 1
+      },
+      {
+        "sin": "Pride",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_99",
+    "slug": "legerdemain-gregor",
+    "name": "Legerdemain",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 1
+      },
+      {
+        "sin": "Gluttony",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_100",
+    "slug": "lantern-gregor",
+    "name": "Lantern",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "riskTier": "TETH",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 1
+      },
+      {
+        "sin": "Gluttony",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_101",
+    "slug": "crows-eye-view-yi-sang",
+    "name": "Crow's Eye View",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 1
+      },
+      {
+        "sin": "Sloth",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_102",
+    "slug": "representation-emitter-faust",
+    "name": "Representation Emitter",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Gluttony",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "ego_103",
+    "slug": "la-sangre-de-sancho-don-quixote",
+    "name": "La Sangre de Sancho",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_104",
+    "slug": "forest-for-the-flames-ryoshu",
+    "name": "Forest for the Flames",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Lust",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_105",
+    "slug": "chains-of-others-meursault",
+    "name": "Chains of Others",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 1
+      },
+      {
+        "sin": "Gloom",
+        "count": 1
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_106",
+    "slug": "land-of-illusion-hong-lu",
+    "name": "Land of Illusion",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 1
+      },
+      {
+        "sin": "Gloom",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "ego_107",
+    "slug": "bodysack-heathcliff",
+    "name": "Bodysack",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 2
+      },
+      {
+        "sin": "Envy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_108",
+    "slug": "snagharpoon-ishmael",
+    "name": "Snagharpoon",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 2
+      },
+      {
+        "sin": "Gloom",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_109",
+    "slug": "what-is-cast-rodion",
+    "name": "What is Cast",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Gloom",
+        "count": 1
+      },
+      {
+        "sin": "Pride",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_110",
+    "slug": "branch-of-knowledge-sinclair",
+    "name": "Branch of Knowledge",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Wrath",
+        "count": 1
+      },
+      {
+        "sin": "Gluttony",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "ego_111",
+    "slug": "to-p%C3%A1thos-m%C3%A1thos-outis",
+    "name": "To Páthos Máthos",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Sloth",
+        "count": 2
+      },
+      {
+        "sin": "Pride",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "ego_112",
+    "slug": "suddenly-one-day-gregor",
+    "name": "Suddenly, One Day",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "riskTier": "ZAYIN",
+    "cost": [
+      {
+        "sin": "Lust",
+        "count": 3
+      },
+      {
+        "sin": "Gloom",
+        "count": 1
+      }
+    ]
+  }
+]

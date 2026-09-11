@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Yi Sang", "codeName": "YI_SANG", "themeColor": "#99AAB5" },
+  { "id": 2, "name": "Faust", "codeName": "FAUST", "themeColor": "#E6E6FA" },
+  { "id": 3, "name": "Don Quixote", "codeName": "DON_QUIXOTE", "themeColor": "#FFD700" },
+  { "id": 4, "name": "Ryōshū", "codeName": "RYOSHU", "themeColor": "#DC143C" },
+  { "id": 5, "name": "Meursault", "codeName": "MEURSAULT", "themeColor": "#708090" },
+  { "id": 6, "name": "Hong Lu", "codeName": "HONG_LU", "themeColor": "#00FA9A" },
+  { "id": 7, "name": "Heathcliff", "codeName": "HEATHCLIFF", "themeColor": "#8B4513" },
+  { "id": 8, "name": "Ishmael", "codeName": "ISHMAEL", "themeColor": "#FF7F50" },
+  { "id": 9, "name": "Rodion", "codeName": "RODION", "themeColor": "#C71585" },
+  { "id": 10, "name": "Sinclair", "codeName": "SINCLAIR", "themeColor": "#ADFF2F" },
+  { "id": 11, "name": "Outis", "codeName": "OUTIS", "themeColor": "#2E8B57" },
+  { "id": 12, "name": "Gregor", "codeName": "GREGOR", "themeColor": "#D2691E" }
+]

@@ -1,0 +1,5814 @@
+[
+  {
+    "id": "cinq-assoc-east-section-3-hong-lu",
+    "slug": "cinq-assoc-east-section-3-hong-lu",
+    "name": "Cinq Assoc. East Section 3",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "lce-ego-dimension-shredder-yi-sang",
+    "slug": "lce-ego-dimension-shredder-yi-sang",
+    "name": "LCE E.G.O::Dimension Shredder",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "dawn-office-fixer-faust",
+    "slug": "dawn-office-fixer-faust",
+    "name": "Dawn Office Fixer",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "dawn-office-rep-gregor",
+    "slug": "dawn-office-rep-gregor",
+    "name": "Dawn Office Rep",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "the-house-of-spiders-the-thumb-apprentice-heathcliff",
+    "slug": "the-house-of-spiders-the-thumb-apprentice-heathcliff",
+    "name": "The House of Spiders: The Thumb Apprentice",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "the-house-of-spiders-the-thumb-nursefather-rodion",
+    "slug": "the-house-of-spiders-the-thumb-nursefather-rodion",
+    "name": "The House of Spiders: The Thumb Nursefather",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "s-corp-chunokkun-hong-lu",
+    "slug": "s-corp-chunokkun-hong-lu",
+    "name": "S Corp. Ch'unokkun",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "lcd-osir-team-ishmael",
+    "slug": "lcd-osir-team-ishmael",
+    "name": "LCD OSIR Team",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "the-house-of-spiders-the-middle-nursefather-outis",
+    "slug": "the-house-of-spiders-the-middle-nursefather-outis",
+    "name": "The House of Spiders: The Middle Nursefather",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "blade-of-the-house-of-spiders-ryoshu",
+    "slug": "blade-of-the-house-of-spiders-ryoshu",
+    "name": "Blade of the House of Spiders",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Bleed",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "the-middle-big-brother-heathcliff",
+    "slug": "the-middle-big-brother-heathcliff",
+    "name": "The Middle Big Brother",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "the-ring-fauvist-student-meursault",
+    "slug": "the-ring-fauvist-student-meursault",
+    "name": "The Ring Fauvist Student",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "the-ring-fauvist-docent-rodion",
+    "slug": "the-ring-fauvist-docent-rodion",
+    "name": "The Ring Fauvist Docent",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "the-house-of-spiders-the-ring-apprentice-faust",
+    "slug": "the-house-of-spiders-the-ring-apprentice-faust",
+    "name": "The House of Spiders: The Ring Apprentice",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "the-house-of-spiders-the-ring-nursefather-hong-lu",
+    "slug": "the-house-of-spiders-the-ring-nursefather-hong-lu",
+    "name": "The House of Spiders: The Ring Nursefather",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "lce-ego-aedd-gregor",
+    "slug": "lce-ego-aedd-gregor",
+    "name": "LCE E.G.O::AEDD",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-ego-faint-aroma-and-solitude-ryoshu",
+    "slug": "lobotomy-ego-faint-aroma-and-solitude-ryoshu",
+    "name": "Lobotomy E.G.O::Faint Aroma & Solitude",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 3,
+    "keywords": [
+      "Tremor",
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-ego-hornet-alteration-meursault",
+    "slug": "lobotomy-ego-hornet-alteration-meursault",
+    "name": "Lobotomy E.G.O::Hornet【Alteration】",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "the-house-of-spiders-the-index-nursefather-yi-sang",
+    "slug": "the-house-of-spiders-the-index-nursefather-yi-sang",
+    "name": "The House of Spiders: The Index Nursefather",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 3,
+    "keywords": [
+      "Sinking",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "the-house-of-spiders-the-pinky-apprentice-sinclair",
+    "slug": "the-house-of-spiders-the-pinky-apprentice-sinclair",
+    "name": "The House of Spiders: The Pinky Apprentice",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-ego-lamp-gregor",
+    "slug": "lobotomy-ego-lamp-gregor",
+    "name": "Lobotomy E.G.O::Lamp",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "the-house-of-spiders-the-middle-apprentice-ishmael",
+    "slug": "the-house-of-spiders-the-middle-apprentice-ishmael",
+    "name": "The House of Spiders: The Middle Apprentice",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "the-index-proxy-effloresced-ego-procuration-don-quixote",
+    "slug": "the-index-proxy-effloresced-ego-procuration-don-quixote",
+    "name": "The Index Proxy - Effloresced E.G.O::Procuration",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 3,
+    "keywords": [
+      "Sinking",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "the-index-proselyte-paper-slip-faust",
+    "slug": "the-index-proselyte-paper-slip-faust",
+    "name": "The Index Proselyte:【Paper Slip】",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 3,
+    "keywords": [
+      "Sinking",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lca-udjat-vanguard-team-3-leader-outis",
+    "slug": "lca-udjat-vanguard-team-3-leader-outis",
+    "name": "LCA Udjat Vanguard Team 3 Leader",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 3,
+    "keywords": [
+      "Tremor",
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "r-corp-4th-pack-reindeer-rodion",
+    "slug": "r-corp-4th-pack-reindeer-rodion",
+    "name": "R Corp. 4th Pack Reindeer",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 3,
+    "keywords": [
+      "Sinking",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "drifting-blade-of-hongyuan-ryoshu",
+    "slug": "drifting-blade-of-hongyuan-ryoshu",
+    "name": "Drifting Blade of Hongyuan",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "heishou-pack-wei-branch-don-quixote",
+    "slug": "heishou-pack-wei-branch-don-quixote",
+    "name": "Heishou Pack - Wei Branch",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "heishou-pack-you-branch-adept-heathcliff",
+    "slug": "heishou-pack-you-branch-adept-heathcliff",
+    "name": "Heishou Pack - You Branch Adept",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "jeongs-office-rep-ishmael",
+    "slug": "jeongs-office-rep-ishmael",
+    "name": "Jeong's Office Rep",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 3,
+    "keywords": [
+      "Tremor",
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "night-awls-capitano-gregor",
+    "slug": "night-awls-capitano-gregor",
+    "name": "Night Awls Capitano",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "the-prince-of-la-manchaland-meursault",
+    "slug": "the-prince-of-la-manchaland-meursault",
+    "name": "The Prince of La Manchaland",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "w-corp-l4-cleanup-agent-cca-heathcliff",
+    "slug": "w-corp-l4-cleanup-agent-cca-heathcliff",
+    "name": "W Corp. L4 Cleanup Agent - CCA",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "shi-assoc-east-section-3-faust",
+    "slug": "shi-assoc-east-section-3-faust",
+    "name": "Shi Assoc. East Section 3",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "n-corp-ego-contempt-awe-ryoshu",
+    "slug": "n-corp-ego-contempt-awe-ryoshu",
+    "name": "N Corp. E.G.O::Contempt, Awe",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "heishou-pack-wu-branch-adept-yi-sang",
+    "slug": "heishou-pack-wu-branch-adept-yi-sang",
+    "name": "Heishou Pack - Wu Branch Adept",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 3,
+    "keywords": [
+      "Tremor",
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "heishou-pack-you-branch-sinclair",
+    "slug": "heishou-pack-you-branch-sinclair",
+    "name": "Heishou Pack - You Branch",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "the-lord-of-hongyuan-hong-lu",
+    "slug": "the-lord-of-hongyuan-hong-lu",
+    "name": "The Lord of Hongyuan",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "t-corp-class-3-vdcu-staff-outis",
+    "slug": "t-corp-class-3-vdcu-staff-outis",
+    "name": "T Corp. Class 3 VDCU Staff",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 3,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-ego-in-the-name-of-love-and-hate-don-quixote",
+    "slug": "lobotomy-ego-in-the-name-of-love-and-hate-don-quixote",
+    "name": "Lobotomy E.G.O::In the Name of Love and Hate",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Sinking",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-ego-the-sword-sharpened-with-tears-rodion",
+    "slug": "lobotomy-ego-the-sword-sharpened-with-tears-rodion",
+    "name": "Lobotomy E.G.O::The Sword Sharpened with Tears",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 3,
+    "keywords": [
+      "Sinking",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "n-corp-ego-fell-bullet-yi-sang",
+    "slug": "n-corp-ego-fell-bullet-yi-sang",
+    "name": "N Corp. E.G.O::Fell Bullet",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "the-thumb-east-capo-iiii-meursault",
+    "slug": "the-thumb-east-capo-iiii-meursault",
+    "name": "The Thumb East Capo IIII",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "the-thumb-east-soldato-ii-sinclair",
+    "slug": "the-thumb-east-soldato-ii-sinclair",
+    "name": "The Thumb East Soldato II",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "family-hierarch-candidate-ishmael",
+    "slug": "family-hierarch-candidate-ishmael",
+    "name": "Family Hierarch Candidate",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "heishou-pack-mao-branch-adept-faust",
+    "slug": "heishou-pack-mao-branch-adept-faust",
+    "name": "Heishou Pack - Mao Branch Adept",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 3,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "heishou-pack-si-branch-rodion",
+    "slug": "heishou-pack-si-branch-rodion",
+    "name": "Heishou Pack - Si Branch",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "heishou-pack-si-branch-gregor",
+    "slug": "heishou-pack-si-branch-gregor",
+    "name": "Heishou Pack - Si Branch",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "r-corp-4th-pack-reindeer-hong-lu",
+    "slug": "r-corp-4th-pack-reindeer-hong-lu",
+    "name": "R Corp. 4th Pack Reindeer",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 3,
+    "keywords": [
+      "Sinking",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "the-middle-little-brother-sinclair",
+    "slug": "the-middle-little-brother-sinclair",
+    "name": "The Middle Little Brother",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 3,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "heishou-pack-mao-branch-ryoshu",
+    "slug": "heishou-pack-mao-branch-ryoshu",
+    "name": "Heishou Pack - Mao Branch",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 3,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "heishou-pack-mao-branch-outis",
+    "slug": "heishou-pack-mao-branch-outis",
+    "name": "Heishou Pack - Mao Branch",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 3,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "cinq-assoc-east-section-3-don-quixote",
+    "slug": "cinq-assoc-east-section-3-don-quixote",
+    "name": "Cinq Assoc. East Section 3",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "firefist-office-survivor-gregor",
+    "slug": "firefist-office-survivor-gregor",
+    "name": "Firefist Office Survivor",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 3,
+    "keywords": [
+      "Burn"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "liu-assoc-south-section-3-yi-sang",
+    "slug": "liu-assoc-south-section-3-yi-sang",
+    "name": "Liu Assoc. South Section 3",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 3,
+    "keywords": [
+      "Burn"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "kurokumo-clan-wakashu-heathcliff",
+    "slug": "kurokumo-clan-wakashu-heathcliff",
+    "name": "Kurokumo Clan Wakashu",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 3,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "kurokumo-clan-captain-ishmael",
+    "slug": "kurokumo-clan-captain-ishmael",
+    "name": "Kurokumo Clan Captain",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 3,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "lce-ego-lantern-yi-sang",
+    "slug": "lce-ego-lantern-yi-sang",
+    "name": "LCE E.G.O::Lantern",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 2,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "lce-ego-ardor-blossom-star-faust",
+    "slug": "lce-ego-ardor-blossom-star-faust",
+    "name": "LCE E.G.O::Ardor Blossom Star",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 3,
+    "keywords": [
+      "Burn"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "full-stop-office-rep-hong-lu",
+    "slug": "full-stop-office-rep-hong-lu",
+    "name": "Full-Stop Office Rep",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 3,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "full-stop-office-fixer-heathcliff",
+    "slug": "full-stop-office-fixer-heathcliff",
+    "name": "Full-Stop Office Fixer",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 3,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "the-manager-of-la-manchaland-don-quixote",
+    "slug": "the-manager-of-la-manchaland-don-quixote",
+    "name": "The Manager of La Manchaland",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 3,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "devyat-assoc-north-section-3-sinclair",
+    "slug": "devyat-assoc-north-section-3-sinclair",
+    "name": "Devyat' Assoc. North Section 3",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 3,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "the-princess-of-la-manchaland-rodion",
+    "slug": "the-princess-of-la-manchaland-rodion",
+    "name": "The Princess of La Manchaland",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "the-priest-of-la-manchaland-gregor",
+    "slug": "the-priest-of-la-manchaland-gregor",
+    "name": "The Priest of La Manchaland",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "fanghunt-office-fixer-hong-lu",
+    "slug": "fanghunt-office-fixer-hong-lu",
+    "name": "Fanghunt Office Fixer",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 2,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "the-barber-of-la-manchaland-outis",
+    "slug": "the-barber-of-la-manchaland-outis",
+    "name": "The Barber of La Manchaland",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 3,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "cinq-assoc-west-section-3-meursault",
+    "slug": "cinq-assoc-west-section-3-meursault",
+    "name": "Cinq Assoc. West Section 3",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "zwei-assoc-west-section-3-sinclair",
+    "slug": "zwei-assoc-west-section-3-sinclair",
+    "name": "Zwei Assoc. West Section 3",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 2,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "zwei-assoc-west-section-3-ishmael",
+    "slug": "zwei-assoc-west-section-3-ishmael",
+    "name": "Zwei Assoc. West Section 3",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 3,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "devyat-assoc-north-section-3-rodion",
+    "slug": "devyat-assoc-north-section-3-rodion",
+    "name": "Devyat' Assoc. North Section 3",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 3,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-ego-solemn-lament-yi-sang",
+    "slug": "lobotomy-ego-solemn-lament-yi-sang",
+    "name": "Lobotomy E.G.O::Solemn Lament",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 3,
+    "keywords": [
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-ego-red-eyes-and-penitence-ryoshu",
+    "slug": "lobotomy-ego-red-eyes-and-penitence-ryoshu",
+    "name": "Lobotomy E.G.O::Red Eyes & Penitence",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "wild-hunt-heathcliff",
+    "slug": "wild-hunt-heathcliff",
+    "name": "Wild Hunt",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 3,
+    "keywords": [
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "multicrack-office-rep-faust",
+    "slug": "multicrack-office-rep-faust",
+    "name": "MultiCrack Office Rep",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 3,
+    "keywords": [
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "multicrack-office-fixer-heathcliff",
+    "slug": "multicrack-office-fixer-heathcliff",
+    "name": "MultiCrack Office Fixer",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 2,
+    "keywords": [
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "w-corp-l3-cleanup-captain-outis",
+    "slug": "w-corp-l3-cleanup-captain-outis",
+    "name": "W Corp. L3 Cleanup Captain",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "dieci-assoc-south-section-4-director-meursault",
+    "slug": "dieci-assoc-south-section-4-director-meursault",
+    "name": "Dieci Assoc. South Section 4 Director",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 3,
+    "keywords": [
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "t-corp-class-3-collection-staff-don-quixote",
+    "slug": "t-corp-class-3-collection-staff-don-quixote",
+    "name": "T Corp. Class 3 Collection Staff",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 3,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "t-corp-class-2-collection-staff-rodion",
+    "slug": "t-corp-class-2-collection-staff-rodion",
+    "name": "T Corp. Class 2 Collection Staff",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 2,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "district-20-yurodivy-ryoshu",
+    "slug": "district-20-yurodivy-ryoshu",
+    "name": "District 20 Yurodivy",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 2,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "district-20-yurodivy-hong-lu",
+    "slug": "district-20-yurodivy-hong-lu",
+    "name": "District 20 Yurodivy",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 3,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "the-ring-pointillist-student-yi-sang",
+    "slug": "the-ring-pointillist-student-yi-sang",
+    "name": "The Ring Pointillist Student",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 3,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "the-ring-pointillist-student-outis",
+    "slug": "the-ring-pointillist-student-outis",
+    "name": "The Ring Pointillist Student",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 2,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "dawn-office-fixer-sinclair",
+    "slug": "dawn-office-fixer-sinclair",
+    "name": "Dawn Office Fixer",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 3,
+    "keywords": [
+      "Burn"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "edgar-family-chief-butler-ryoshu",
+    "slug": "edgar-family-chief-butler-ryoshu",
+    "name": "Edgar Family Chief Butler",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 3,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "edgar-family-butler-ishmael",
+    "slug": "edgar-family-butler-ishmael",
+    "name": "Edgar Family Butler",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 2,
+    "keywords": [
+      "Sinking",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "wuthering-heights-butler-faust",
+    "slug": "wuthering-heights-butler-faust",
+    "name": "Wuthering Heights Butler",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 2,
+    "keywords": [
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "edgar-family-heir-gregor",
+    "slug": "edgar-family-heir-gregor",
+    "name": "Edgar Family Heir",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 3,
+    "keywords": [
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "dead-rabbits-boss-meursault",
+    "slug": "dead-rabbits-boss-meursault",
+    "name": "Dead Rabbits Boss",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 2,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "wuthering-heights-chief-butler-outis",
+    "slug": "wuthering-heights-chief-butler-outis",
+    "name": "Wuthering Heights Chief Butler",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 3,
+    "keywords": [
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "oufi-assoc-south-section-3-heathcliff",
+    "slug": "oufi-assoc-south-section-3-heathcliff",
+    "name": "Öufi Assoc. South Section 3",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 3,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "liu-assoc-south-section-4-ryoshu",
+    "slug": "liu-assoc-south-section-4-ryoshu",
+    "name": "Liu Assoc. South Section 4",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 2,
+    "keywords": [
+      "Burn"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "liu-assoc-south-section-4-director-rodion",
+    "slug": "liu-assoc-south-section-4-director-rodion",
+    "name": "Liu Assoc. South Section 4 Director",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 3,
+    "keywords": [
+      "Burn"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "blade-lineage-salsu-faust",
+    "slug": "blade-lineage-salsu-faust",
+    "name": "Blade Lineage Salsu",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "blade-lineage-salsu-don-quixote",
+    "slug": "blade-lineage-salsu-don-quixote",
+    "name": "Blade Lineage Salsu",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 2,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "blade-lineage-mentor-meursault",
+    "slug": "blade-lineage-mentor-meursault",
+    "name": "Blade Lineage Mentor",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 3,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "kurokumo-clan-captain-gregor",
+    "slug": "kurokumo-clan-captain-gregor",
+    "name": "Kurokumo Clan Captain",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 2,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "the-pequod-captain-ishmael",
+    "slug": "the-pequod-captain-ishmael",
+    "name": "The Pequod Captain",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Bleed",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "dieci-assoc-south-section-4-yi-sang",
+    "slug": "dieci-assoc-south-section-4-yi-sang",
+    "name": "Dieci Assoc. South Section 4",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 2,
+    "keywords": [
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "dieci-assoc-south-section-4-hong-lu",
+    "slug": "dieci-assoc-south-section-4-hong-lu",
+    "name": "Dieci Assoc. South Section 4",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 3,
+    "keywords": [
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-ego-lantern-don-quixote",
+    "slug": "lobotomy-ego-lantern-don-quixote",
+    "name": "Lobotomy E.G.O::Lantern",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 2,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-ego-magic-bullet-outis",
+    "slug": "lobotomy-ego-magic-bullet-outis",
+    "name": "Lobotomy E.G.O::Magic Bullet",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 3,
+    "keywords": [
+      "Burn"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "cinq-assoc-south-section-4-director-sinclair",
+    "slug": "cinq-assoc-south-section-4-director-sinclair",
+    "name": "Cinq Assoc. South Section 4 Director",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 3,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "cinq-assoc-south-section-4-outis",
+    "slug": "cinq-assoc-south-section-4-outis",
+    "name": "Cinq Assoc. South Section 4",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 2,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "the-pequod-first-mate-yi-sang",
+    "slug": "the-pequod-first-mate-yi-sang",
+    "name": "The Pequod First Mate",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 2,
+    "keywords": [
+      "Bleed",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "the-pequod-harpooneer-heathcliff",
+    "slug": "the-pequod-harpooneer-heathcliff",
+    "name": "The Pequod Harpooneer",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "the-middle-little-sister-don-quixote",
+    "slug": "the-middle-little-sister-don-quixote",
+    "name": "The Middle Little Sister",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 3,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "the-middle-little-brother-meursault",
+    "slug": "the-middle-little-brother-meursault",
+    "name": "The Middle Little Brother",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 2,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lccb-assistant-manager-ryoshu",
+    "slug": "lccb-assistant-manager-ryoshu",
+    "name": "LCCB Assistant Manager",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 2,
+    "keywords": [
+      "Tremor",
+      "Rupture",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "twinhook-pirates-first-mate-gregor",
+    "slug": "twinhook-pirates-first-mate-gregor",
+    "name": "Twinhook Pirates First Mate",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "w-corp-l3-cleanup-agent-yi-sang",
+    "slug": "w-corp-l3-cleanup-agent-yi-sang",
+    "name": "W Corp. L3 Cleanup Agent",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-ego-regret-faust",
+    "slug": "lobotomy-ego-regret-faust",
+    "name": "Lobotomy E.G.O::Regret",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 3,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "hook-office-fixer-hong-lu",
+    "slug": "hook-office-fixer-hong-lu",
+    "name": "Hook Office Fixer",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 2,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "dieci-assoc-south-section-4-rodion",
+    "slug": "dieci-assoc-south-section-4-rodion",
+    "name": "Dieci Assoc. South Section 4",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 3,
+    "keywords": [
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "molar-office-fixer-yi-sang",
+    "slug": "molar-office-fixer-yi-sang",
+    "name": "Molar Office Fixer",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 2,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "molar-office-fixer-outis",
+    "slug": "molar-office-fixer-outis",
+    "name": "Molar Office Fixer",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 3,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "seven-assoc-south-section-4-faust",
+    "slug": "seven-assoc-south-section-4-faust",
+    "name": "Seven Assoc. South Section 4",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 3,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "seven-assoc-south-section-4-heathcliff",
+    "slug": "seven-assoc-south-section-4-heathcliff",
+    "name": "Seven Assoc. South Section 4",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 2,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "w-corp-l3-cleanup-agent-ryoshu",
+    "slug": "w-corp-l3-cleanup-agent-ryoshu",
+    "name": "W Corp. L3 Cleanup Agent",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 3,
+    "keywords": [
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "w-corp-l2-cleanup-agent-hong-lu",
+    "slug": "w-corp-l2-cleanup-agent-hong-lu",
+    "name": "W Corp. L2 Cleanup Agent",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 2,
+    "keywords": [
+      "Rupture",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "zwei-assoc-south-section-4-faust",
+    "slug": "zwei-assoc-south-section-4-faust",
+    "name": "Zwei Assoc. South Section 4",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 2,
+    "keywords": [],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "zwei-assoc-south-section-4-gregor",
+    "slug": "zwei-assoc-south-section-4-gregor",
+    "name": "Zwei Assoc. South Section 4",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 3,
+    "keywords": [],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "molar-boatworks-fixer-ishmael",
+    "slug": "molar-boatworks-fixer-ishmael",
+    "name": "Molar Boatworks Fixer",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 3,
+    "keywords": [
+      "Tremor",
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "molar-boatworks-fixer-sinclair",
+    "slug": "molar-boatworks-fixer-sinclair",
+    "name": "Molar Boatworks Fixer",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 2,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "cinq-assoc-south-section-5-director-don-quixote",
+    "slug": "cinq-assoc-south-section-5-director-don-quixote",
+    "name": "Cinq Assoc. South Section 5 Director",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 3,
+    "keywords": [],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "r-corp-4th-pack-rhino-meursault",
+    "slug": "r-corp-4th-pack-rhino-meursault",
+    "name": "R Corp. 4th Pack Rhino",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "zwei-assoc-south-section-5-rodion",
+    "slug": "zwei-assoc-south-section-5-rodion",
+    "name": "Zwei Assoc. South Section 5",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 2,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "liu-assoc-south-section-4-ishmael",
+    "slug": "liu-assoc-south-section-4-ishmael",
+    "name": "Liu Assoc. South Section 4",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 3,
+    "keywords": [
+      "Burn"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "k-corp-class-3-excision-staff-hong-lu",
+    "slug": "k-corp-class-3-excision-staff-hong-lu",
+    "name": "K Corp. Class 3 Excision Staff",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 3,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-ego-red-sheet-sinclair",
+    "slug": "lobotomy-ego-red-sheet-sinclair",
+    "name": "Lobotomy E.G.O::Red Sheet",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 2,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "effloresced-ego-spicebush-yi-sang",
+    "slug": "effloresced-ego-spicebush-yi-sang",
+    "name": "Effloresced E.G.O::Spicebush",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 3,
+    "keywords": [
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-ego-sloshing-ishmael",
+    "slug": "lobotomy-ego-sloshing-ishmael",
+    "name": "Lobotomy E.G.O::Sloshing",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 2,
+    "keywords": [
+      "Tremor",
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-ego-sunshower-heathcliff",
+    "slug": "lobotomy-ego-sunshower-heathcliff",
+    "name": "Lobotomy E.G.O::Sunshower",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "rosespanner-workshop-fixer-gregor",
+    "slug": "rosespanner-workshop-fixer-gregor",
+    "name": "Rosespanner Workshop Fixer",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 2,
+    "keywords": [
+      "Tremor",
+      "Rupture",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "rosespanner-workshop-fixer-meursault",
+    "slug": "rosespanner-workshop-fixer-meursault",
+    "name": "Rosespanner Workshop Fixer",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 2,
+    "keywords": [
+      "Tremor",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "rosespanner-workshop-rep-rodion",
+    "slug": "rosespanner-workshop-rep-rodion",
+    "name": "Rosespanner Workshop Rep",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 3,
+    "keywords": [
+      "Tremor",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "n-corp-mittelhammer-don-quixote",
+    "slug": "n-corp-mittelhammer-don-quixote",
+    "name": "N Corp. Mittelhammer",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 2,
+    "keywords": [
+      "Bleed",
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "the-one-who-shall-grip-sinclair",
+    "slug": "the-one-who-shall-grip-sinclair",
+    "name": "The One Who Shall Grip",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 3,
+    "keywords": [
+      "Burn",
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "rb-chef-de-cuisine-ryoshu",
+    "slug": "rb-chef-de-cuisine-ryoshu",
+    "name": "R.B. Chef de Cuisine",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 3,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "rb-sous-chef-gregor",
+    "slug": "rb-sous-chef-gregor",
+    "name": "R.B. Sous-chef",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 2,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "liu-assoc-south-section-5-hong-lu",
+    "slug": "liu-assoc-south-section-5-hong-lu",
+    "name": "Liu Assoc. South Section 5",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 2,
+    "keywords": [
+      "Burn"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "seven-assoc-south-section-6-director-outis",
+    "slug": "seven-assoc-south-section-6-director-outis",
+    "name": "Seven Assoc. South Section 6 Director",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 3,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "the-one-who-grips-faust",
+    "slug": "the-one-who-grips-faust",
+    "name": "The One Who Grips",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 3,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "n-corp-kleinhammer-heathcliff",
+    "slug": "n-corp-kleinhammer-heathcliff",
+    "name": "N Corp. Kleinhammer",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 2,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "n-corp-grosshammer-meursault",
+    "slug": "n-corp-grosshammer-meursault",
+    "name": "N Corp. Großhammer",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 3,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "n-corp-mittelhammer-rodion",
+    "slug": "n-corp-mittelhammer-rodion",
+    "name": "N Corp. Mittelhammer",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 2,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "blade-lineage-salsu-yi-sang",
+    "slug": "blade-lineage-salsu-yi-sang",
+    "name": "Blade Lineage Salsu",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 3,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "seven-assoc-south-section-6-yi-sang",
+    "slug": "seven-assoc-south-section-6-yi-sang",
+    "name": "Seven Assoc. South Section 6",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 2,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "lcb-sinner-yi-sang",
+    "slug": "lcb-sinner-yi-sang",
+    "name": "LCB Sinner",
+    "sinner": "Yi Sang",
+    "sinnerId": 1,
+    "rarity": 1,
+    "keywords": [
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "w-corp-l2-cleanup-agent-faust",
+    "slug": "w-corp-l2-cleanup-agent-faust",
+    "name": "W Corp. L2 Cleanup Agent",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 2,
+    "keywords": [
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lobotomy-corp-remnant-faust",
+    "slug": "lobotomy-corp-remnant-faust",
+    "name": "Lobotomy Corp. Remnant",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 2,
+    "keywords": [
+      "Rupture",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "lcb-sinner-faust",
+    "slug": "lcb-sinner-faust",
+    "name": "LCB Sinner",
+    "sinner": "Faust",
+    "sinnerId": 2,
+    "rarity": 1,
+    "keywords": [],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "w-corp-l3-cleanup-agent-don-quixote",
+    "slug": "w-corp-l3-cleanup-agent-don-quixote",
+    "name": "W Corp. L3 Cleanup Agent",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "shi-assoc-south-section-5-director-don-quixote",
+    "slug": "shi-assoc-south-section-5-director-don-quixote",
+    "name": "Shi Assoc. South Section 5 Director",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 2,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "lcb-sinner-don-quixote",
+    "slug": "lcb-sinner-don-quixote",
+    "name": "LCB Sinner",
+    "sinner": "Don Quixote",
+    "sinnerId": 3,
+    "rarity": 1,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "kurokumo-clan-wakashu-ryoshu",
+    "slug": "kurokumo-clan-wakashu-ryoshu",
+    "name": "Kurokumo Clan Wakashu",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 3,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "seven-assoc-south-section-6-ryoshu",
+    "slug": "seven-assoc-south-section-6-ryoshu",
+    "name": "Seven Assoc. South Section 6",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 2,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lcb-sinner-ryoshu",
+    "slug": "lcb-sinner-ryoshu",
+    "name": "LCB Sinner",
+    "sinner": "Ryōshū",
+    "sinnerId": 4,
+    "rarity": 1,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "w-corp-l2-cleanup-agent-meursault",
+    "slug": "w-corp-l2-cleanup-agent-meursault",
+    "name": "W Corp. L2 Cleanup Agent",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 3,
+    "keywords": [
+      "Rupture",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "liu-assoc-south-section-6-meursault",
+    "slug": "liu-assoc-south-section-6-meursault",
+    "name": "Liu Assoc. South Section 6",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 2,
+    "keywords": [
+      "Burn"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "lcb-sinner-meursault",
+    "slug": "lcb-sinner-meursault",
+    "name": "LCB Sinner",
+    "sinner": "Meursault",
+    "sinnerId": 5,
+    "rarity": 1,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "tingtang-gang-gangleader-hong-lu",
+    "slug": "tingtang-gang-gangleader-hong-lu",
+    "name": "Tingtang Gang Gangleader",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 3,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "kurokumo-clan-wakashu-hong-lu",
+    "slug": "kurokumo-clan-wakashu-hong-lu",
+    "name": "Kurokumo Clan Wakashu",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 2,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lcb-sinner-hong-lu",
+    "slug": "lcb-sinner-hong-lu",
+    "name": "LCB Sinner",
+    "sinner": "Hong Lu",
+    "sinnerId": 6,
+    "rarity": 1,
+    "keywords": [
+      "Rupture",
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "r-corp-4th-pack-rabbit-heathcliff",
+    "slug": "r-corp-4th-pack-rabbit-heathcliff",
+    "name": "R Corp. 4th Pack Rabbit",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Rupture",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "shi-assoc-south-section-5-heathcliff",
+    "slug": "shi-assoc-south-section-5-heathcliff",
+    "name": "Shi Assoc. South Section 5",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 2,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lcb-sinner-heathcliff",
+    "slug": "lcb-sinner-heathcliff",
+    "name": "LCB Sinner",
+    "sinner": "Heathcliff",
+    "sinnerId": 7,
+    "rarity": 1,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "r-corp-4th-pack-reindeer-ishmael",
+    "slug": "r-corp-4th-pack-reindeer-ishmael",
+    "name": "R Corp. 4th Pack Reindeer",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 3,
+    "keywords": [
+      "Sinking",
+      "Charge"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "shi-assoc-south-section-5-ishmael",
+    "slug": "shi-assoc-south-section-5-ishmael",
+    "name": "Shi Assoc. South Section 5",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 2,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "lccb-assistant-manager-ishmael",
+    "slug": "lccb-assistant-manager-ishmael",
+    "name": "LCCB Assistant Manager",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 2,
+    "keywords": [
+      "Tremor",
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lcb-sinner-ishmael",
+    "slug": "lcb-sinner-ishmael",
+    "name": "LCB Sinner",
+    "sinner": "Ishmael",
+    "sinnerId": 8,
+    "rarity": 1,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "kurokumo-clan-wakashu-rodion",
+    "slug": "kurokumo-clan-wakashu-rodion",
+    "name": "Kurokumo Clan Wakashu",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "lccb-assistant-manager-rodion",
+    "slug": "lccb-assistant-manager-rodion",
+    "name": "LCCB Assistant Manager",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 2,
+    "keywords": [],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lcb-sinner-rodion",
+    "slug": "lcb-sinner-rodion",
+    "name": "LCB Sinner",
+    "sinner": "Rodion",
+    "sinnerId": 9,
+    "rarity": 1,
+    "keywords": [
+      "Bleed"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "blade-lineage-salsu-sinclair",
+    "slug": "blade-lineage-salsu-sinclair",
+    "name": "Blade Lineage Salsu",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 3,
+    "keywords": [
+      "Bleed",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "zwei-assoc-south-section-6-sinclair",
+    "slug": "zwei-assoc-south-section-6-sinclair",
+    "name": "Zwei Assoc. South Section 6",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 2,
+    "keywords": [
+      "Tremor"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "los-mariachis-jefe-sinclair",
+    "slug": "los-mariachis-jefe-sinclair",
+    "name": "Los Mariachis Jefe",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 2,
+    "keywords": [
+      "Sinking",
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lcb-sinner-sinclair",
+    "slug": "lcb-sinner-sinclair",
+    "name": "LCB Sinner",
+    "sinner": "Sinclair",
+    "sinnerId": 10,
+    "rarity": 1,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Envy",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Wrath",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Lust",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "blade-lineage-salsu-outis",
+    "slug": "blade-lineage-salsu-outis",
+    "name": "Blade Lineage Salsu",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 2,
+    "keywords": [
+      "Poise"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Pride",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "g-corp-head-manager-outis",
+    "slug": "g-corp-head-manager-outis",
+    "name": "G Corp. Head Manager",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 2,
+    "keywords": [
+      "Sinking"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Pride",
+        "attackType": "Blunt"
+      }
+    ]
+  },
+  {
+    "id": "lcb-sinner-outis",
+    "slug": "lcb-sinner-outis",
+    "name": "LCB Sinner",
+    "sinner": "Outis",
+    "sinnerId": 11,
+    "rarity": 1,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gluttony",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Sloth",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gloom",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "g-corp-manager-corporal-gregor",
+    "slug": "g-corp-manager-corporal-gregor",
+    "name": "G Corp. Manager Corporal",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 3,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Lust",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Pride",
+        "attackType": "Pierce"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Wrath",
+        "attackType": "Pierce"
+      }
+    ]
+  },
+  {
+    "id": "liu-assoc-south-section-6-gregor",
+    "slug": "liu-assoc-south-section-6-gregor",
+    "name": "Liu Assoc. South Section 6",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 2,
+    "keywords": [
+      "Burn"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Gloom",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Envy",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Gluttony",
+        "attackType": "Slash"
+      }
+    ]
+  },
+  {
+    "id": "lcb-sinner-gregor",
+    "slug": "lcb-sinner-gregor",
+    "name": "LCB Sinner",
+    "sinner": "Gregor",
+    "sinnerId": 12,
+    "rarity": 1,
+    "keywords": [
+      "Rupture"
+    ],
+    "skills": [
+      {
+        "name": "Skill 1",
+        "tier": 1,
+        "sin": "Wrath",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 2",
+        "tier": 2,
+        "sin": "Lust",
+        "attackType": "Slash"
+      },
+      {
+        "name": "Skill 3",
+        "tier": 3,
+        "sin": "Sloth",
+        "attackType": "Blunt"
+      }
+    ]
+  }
+]
