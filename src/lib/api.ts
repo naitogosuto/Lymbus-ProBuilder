@@ -184,6 +184,7 @@ export interface SynergyAnalysis {
   keywordCounts: Record<KeywordType, number>;
   sinDistribution: Record<SinType, number>;
   attackTypeCounts: Record<AttackType, number>;
+  factionCounts: Record<string, number>;
   activeCount: number;
   egoSinDemand: Record<SinType, number>;
   missingSins: SinType[];
@@ -233,6 +234,8 @@ export function analyzePartySynergy(
     Envy: 0
   };
 
+  const factionCounts: Record<string, number> = {};
+
   active.forEach(identity => {
     // Count keywords
     identity.keywords.forEach(kw => {
@@ -240,6 +243,12 @@ export function analyzePartySynergy(
         keywordCounts[kw]++;
       }
     });
+
+    // Count faction / collection
+    const faction = extractFaction(identity.name);
+    if (faction) {
+      factionCounts[faction] = (factionCounts[faction] || 0) + 1;
+    }
 
     // Count sin skills & attack types
     if (identity.skills) {
@@ -290,6 +299,7 @@ export function analyzePartySynergy(
     keywordCounts,
     sinDistribution,
     attackTypeCounts,
+    factionCounts,
     activeCount: active.length,
     egoSinDemand,
     missingSins,

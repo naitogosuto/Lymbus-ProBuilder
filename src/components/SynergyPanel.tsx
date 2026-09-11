@@ -32,7 +32,7 @@ const attackTypeColors: Record<AttackType, string> = {
 };
 
 export const SynergyPanel: React.FC<SynergyPanelProps> = ({ analysis }) => {
-  const { keywordCounts, sinDistribution, attackTypeCounts, activeCount, egoSinDemand, missingSins } = analysis;
+  const { keywordCounts, sinDistribution, attackTypeCounts, factionCounts, activeCount, egoSinDemand, missingSins } = analysis;
 
   // Calculate dominant keyword archetype
   let topKeyword: KeywordType | null = null;
@@ -126,6 +126,55 @@ export const SynergyPanel: React.FC<SynergyPanelProps> = ({ analysis }) => {
                 {sin} (Needed: {egoSinDemand[sin]})
               </span>
             ))}
+          </div>
+        </div>
+      )}
+
+      {/* Faction & Collection Synergies */}
+      {factionCounts && Object.keys(factionCounts).length > 0 && (
+        <div>
+          <div style={{ fontSize: '0.8rem', fontWeight: 700, color: 'var(--text-secondary)', marginBottom: '0.75rem', textTransform: 'uppercase' }}>
+            🏰 Faction & Collection Synergies
+          </div>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '0.4rem' }}>
+            {Object.entries(factionCounts)
+              .sort((a, b) => b[1] - a[1])
+              .map(([faction, count]) => {
+                const hasSynergy = count >= 2;
+                return (
+                  <div
+                    key={faction}
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      justifyContent: 'space-between',
+                      background: hasSynergy ? 'rgba(196, 163, 90, 0.1)' : 'var(--bg-tertiary)',
+                      border: `1px solid ${hasSynergy ? 'rgba(196, 163, 90, 0.4)' : 'var(--border-color)'}`,
+                      padding: '0.4rem 0.65rem',
+                      borderRadius: '6px'
+                    }}
+                  >
+                    <span style={{ fontSize: '0.8rem', fontWeight: 600, color: 'var(--text-primary)' }}>
+                      {faction}
+                    </span>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                      <span style={{
+                        fontSize: '0.7rem',
+                        fontWeight: 700,
+                        padding: '0.1rem 0.4rem',
+                        borderRadius: '4px',
+                        background: hasSynergy ? 'var(--accent-gold)' : 'var(--bg-secondary)',
+                        color: hasSynergy ? '#000' : 'var(--text-muted)'
+                      }}>
+                        {count} {count === 1 ? 'unit' : 'units'}
+                      </span>
+                      {hasSynergy && (
+                        <span style={{ fontSize: '0.75rem' }} title="Active Faction Synergy Bonus!">⚡</span>
+                      )}
+                    </div>
+                  </div>
+                );
+              })}
           </div>
         </div>
       )}
